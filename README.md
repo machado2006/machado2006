@@ -1,9 +1,8 @@
-### Hi there 👋
-
-<!--
-**machado2006/machado2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ola! MEU NOME E GUSTAVO 
+EU ESTOU PRONTO PARA APRENDER NOVAS PLATAFORMAS
+MEU @ESCOLA machado.ribeiro.gustavo@escola.pr.gov.br
+ESTUDO NO COLEGIO ESTADUAL VICTOR BUSSMANN
+GOSTO DE JOGAR FUTEBOL @SOU GOLEIRO
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
